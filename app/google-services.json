@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "920076243131",
+    "firebase_url": "https://my-clock-app-a8ef3.firebaseio.com",
+    "project_id": "my-clock-app-a8ef3",
+    "storage_bucket": "my-clock-app-a8ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920076243131:android:88fdfd01eb03b5f6",
+        "android_client_info": {
+          "package_name": "com.mxolisiponi.myclockapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920076243131-dfehcsvcruqomtkdv3ldckc3nbhv1ee7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg_H5Oz_pwcDQw-kGIKZLE0VZ4YQXe_Gg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
